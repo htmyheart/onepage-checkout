@@ -1,0 +1,4 @@
+services:
+#    onepage_checkout.example:
+#        class: Flexings\OnepageCheckoutBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]

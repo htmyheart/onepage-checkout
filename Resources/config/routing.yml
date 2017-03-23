@@ -1,0 +1,3 @@
+onepage_checkout_index:
+    path:     /checkout
+    defaults: { _controller: OnepageCheckoutBundle:Onepage:index }
